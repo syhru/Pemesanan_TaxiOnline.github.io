@@ -14,7 +14,7 @@ Selamat datang di project Pemesanan Taksi Online. project ini adalah sebuah webs
 
 1. Pastikan Anda memiliki lingkungan pengembangan PHP dan server web (seperti Apache) yang terkonfigurasi.
 2. Clone repositori ini ke dalam direktori web Anda (`htdocs` jika menggunakan XAMPP).
-3. Buka web browser dan akses `http://localhost/MuhammadSyahruRomadhona` untuk melihat halaman pemesanan.
+3. Buka web browser dan akses `http://localhost/` untuk melihat halaman pemesanan.
 4. Isi formulir pemesanan dengan data yang diperlukan.
 5. Tekan tombol "Pesan" untuk melihat rincian pemesanan dan total biaya.
 
